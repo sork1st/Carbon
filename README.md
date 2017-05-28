@@ -4,7 +4,7 @@ This is a scool project of the curse [mestrado em Audiovisual e Multimédia](htt
 ___
 
 ### Were you can see it working
-It is hosted in this [website](http://mfart.x10.mx "carbon website") 
+It is hosted in this [website](http://pwp.net.ipl.pt/alunos.escs/9876/ "carbon website") 
   
 ### What i use to build it
 For the mobile version i mainly use [reveal.js](https://github.com/hakimel/reveal.js "reveal github")
