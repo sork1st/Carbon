@@ -430,6 +430,21 @@
      background-image: linear-gradient(90deg, transparent, hsla(0, 0%, 100%, .4) 40%, hsla(0, 0%, 100%, .4) 60%, transparent);
    }
 
+   html.w-mod-js *[data-ix="entrar_esq"] {
+     opacity: 0;
+     -webkit-transform: translate(400px, 0px);
+     -ms-transform: translate(400px, 0px);
+     transform: translate(400px, 0px);
+   }
+
+   html.w-mod-js *[data-ix="entrar_dir"] {
+   opacity: 0;
+   -webkit-transform: translate(-400px, 0px);
+   -ms-transform: translate(-400px, 0px);
+   transform: translate(-400px, 0px);
+ }
+
+
    @media (max-width: 991px) {
      .body {
        padding-top: auto;
