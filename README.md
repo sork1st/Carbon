@@ -13,5 +13,4 @@ For the mobile version i mainly use [reveal.js](https://github.com/hakimel/revea
 The desktop version i create the basic layout and animations in [webflow](https://webflow.com "website webflow") and get the HTML and CSS code
 
 All image used in the project are Creative Commons Zero (CC0) license
-
 All informations used is the project are from wikipedia Creative Commons Attribution-ShareAlike (CC-by-SA) 3.0 
