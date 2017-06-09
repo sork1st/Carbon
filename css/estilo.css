@@ -362,10 +362,15 @@
      position: static;
    }
 
+   .footer {
+     text-align: center;
+   }
+
    .site_exprimental {
      display: -webkit-box;
      display: -webkit-flex;
      display: -ms-flexbox;
+     text-align: center;
      display: flex;
      padding-top: 3%;
      padding-bottom: 3%;
